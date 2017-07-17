@@ -31,13 +31,13 @@
     <AppXManifest Include="E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-16T16:05:43.586</Modified>
+      <Modified>2017-07-17T22:48:04.853</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\bin\x86\Debug\AluraNutricao.UWP.exe">
       <PackagePath>entrypoint\AluraNutricao.UWP.exe</PackagePath>
-      <Modified>2017-07-16T16:05:41.119</Modified>
+      <Modified>2017-07-17T22:47:58.941</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\George\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -647,7 +647,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\bin\x86\Debug\AluraNutricao.UWP.xr.xml">
       <PackagePath>AluraNutricao.UWP.xr.xml</PackagePath>
-      <Modified>2017-07-16T10:54:48.858</Modified>
+      <Modified>2017-07-17T22:47:57.068</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -664,11 +664,11 @@
     <AppxPackagedFile Include="E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-16T16:05:43.013</Modified>
+      <Modified>2017-07-17T22:48:03.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\bin\x86\Debug\Core\AluraNutricao.UWP.exe">
       <PackagePath>AluraNutricao.UWP.exe</PackagePath>
-      <Modified>2017-07-16T16:05:43.580</Modified>
+      <Modified>2017-07-17T22:48:04.834</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

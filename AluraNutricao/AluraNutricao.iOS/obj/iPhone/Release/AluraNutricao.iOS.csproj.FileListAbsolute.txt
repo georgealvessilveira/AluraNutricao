@@ -1,8 +1,0 @@
-E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
-E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
-E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
-E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.iOS\obj\iPhone\Release\optimized\
-E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.iOS\obj\iPhone\Release\AluraNutricao.iOS.csprojResolveAssemblyReference.cache
-E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.iOS\obj\iPhone\Release\AluraNutricao.iOS.MainPage.xaml.g.cs
-E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.iOS\obj\iPhone\Release\AluraNutricao.iOS.App.xaml.g.cs
-E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.iOS\obj\iPhone\Release\AluraNutricao.iOS.exe

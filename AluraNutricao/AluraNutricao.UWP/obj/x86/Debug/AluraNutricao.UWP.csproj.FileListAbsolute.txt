@@ -126,6 +126,7 @@ E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutri
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\obj\x86\Debug\AluraNutricao.UWP.csprojResolveAssemblyReference.cache
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\obj\x86\Debug\App.g.i.cs
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\obj\x86\Debug\App.g.cs
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\obj\x86\Debug\MainPage.g.i.cs

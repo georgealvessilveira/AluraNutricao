@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
+﻿using System.Collections.ObjectModel;
 using Xamarin.Forms;
 
 namespace AluraNutricao
@@ -11,7 +7,7 @@ namespace AluraNutricao
 	{
 		public HomeTabbedPage ()
 		{
-            var refeicoes = new List<Refeicao>();
+            var refeicoes = new ObservableCollection<Refeicao>();
             Children.Add(new CadastroRefeicao(refeicoes));
             Children.Add(new ListaRefeicoes(refeicoes));
 		}

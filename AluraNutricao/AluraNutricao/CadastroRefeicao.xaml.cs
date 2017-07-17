@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using Xamarin.Forms;
 
 namespace AluraNutricao
 {
 	public partial class CadastroRefeicao : ContentPage
 	{
-        public List<Refeicao> Refeicoes { get; set; }
+        public ObservableCollection<Refeicao> Refeicoes { get; set; }
 
-		public CadastroRefeicao(List<Refeicao> refeicoes)
+		public CadastroRefeicao(ObservableCollection<Refeicao> refeicoes)
 		{
             Refeicoes = refeicoes;
             InitializeComponent();

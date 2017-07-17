@@ -1,3 +1,0 @@
-AluraNutricao.UWP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  AluraNutricao.UWP.MainPage.xaml
-  AluraNutricao.UWP.App.xaml

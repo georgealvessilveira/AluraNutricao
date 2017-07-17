@@ -21,14 +21,14 @@ E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutri
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.Xml.Linq.dll
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.Runtime.dll
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.ComponentModel.dll
+E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
+E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.Reflection.dll
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.Collections.dll
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.ObjectModel.dll
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.Globalization.dll
-E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.ComponentModel.dll
-E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
-E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.Reflection.dll
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.IO.dll
 E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Debug\android\assets\System.Dynamic.Runtime.dll
