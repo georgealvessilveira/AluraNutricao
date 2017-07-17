@@ -1,0 +1,4 @@
+E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Release\AluraNutricao.Droid.MainPage.xaml.g.cs
+E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Release\AluraNutricao.Droid.App.xaml.g.cs
+E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Release\AluraNutricao.Android.dll
+E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.Android\obj\Release\AluraNutricao.Android.pdb

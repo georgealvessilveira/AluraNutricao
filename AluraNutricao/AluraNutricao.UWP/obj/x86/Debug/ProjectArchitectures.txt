@@ -1,0 +1,1 @@
+E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\AluraNutricao.UWP.csproj;x86
