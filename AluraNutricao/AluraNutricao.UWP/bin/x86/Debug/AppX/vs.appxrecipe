@@ -31,13 +31,13 @@
     <AppXManifest Include="E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-17T22:48:04.853</Modified>
+      <Modified>2017-07-17T23:02:52.966</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\bin\x86\Debug\AluraNutricao.UWP.exe">
       <PackagePath>entrypoint\AluraNutricao.UWP.exe</PackagePath>
-      <Modified>2017-07-17T22:47:58.941</Modified>
+      <Modified>2017-07-17T23:02:51.366</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\George\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -664,11 +664,11 @@
     <AppxPackagedFile Include="E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-17T22:48:03.745</Modified>
+      <Modified>2017-07-17T22:52:46.525</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projeto-George\Workspaces\workspace-c#\AluraNutricao\AluraNutricao\AluraNutricao.UWP\bin\x86\Debug\Core\AluraNutricao.UWP.exe">
       <PackagePath>AluraNutricao.UWP.exe</PackagePath>
-      <Modified>2017-07-17T22:48:04.834</Modified>
+      <Modified>2017-07-17T23:02:52.947</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

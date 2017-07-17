@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Collections.ObjectModel;
+﻿using System.Collections.ObjectModel;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -16,5 +15,17 @@ namespace AluraNutricao
             BindingContext = this;
             InitializeComponent();
 		}
+
+        public async void AcaoItem(object sender, ItemTappedEventArgs e)
+        {
+            var refeicao = e.Item as Refeicao;
+            bool resposta = await DisplayAlert("Remover item", "Você tem certeza que deseja remover o item " + refeicao.Descricao + "?", "Sim", "Não");
+
+            if (resposta)
+            {
+                Refeicoes.Remove(refeicao);
+                await DisplayAlert("Remover item", "Item removido com sucesso", "OK");
+            }
+        }
 	}
 }
